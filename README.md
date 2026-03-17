@@ -1,4 +1,4 @@
-# 🚀 RL Training Routines for Biomechanical Models
+# 🚀 Increasing Interaction Fidelity: Training Routines for Biomechanical Models in HCI
 ![Teaser Figure](teaser-figure.png)
 <hr></hr> This project provides practical training routines for biomechanical forward simulation, enabling the generation of human-like movements in interactive tasks such as touchscreen pointing. 
 Training biomechanical models with reinforcement learning is challenging, especially for precise and dexterous movements required in mobile device interactions. Existing methods often limit interaction fidelity and model complexity.
